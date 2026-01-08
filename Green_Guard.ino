@@ -64,7 +64,6 @@ uint8_t const PROGMEM RemoteXY_CONF_PROGMEM[] =   // 80 bytes V19
   116, 101, 114, 32, 76, 101, 118, 101, 108, 32, 58, 0, 67, 33, 120, 40, 13, 73, 16, 1
 };
 
-// this structure defines all the variables and events of your control interface
 struct {
 
   // output variables
